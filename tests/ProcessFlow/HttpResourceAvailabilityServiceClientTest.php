@@ -8,7 +8,7 @@ use PhpPact\Consumer\Model\ConsumerRequest;
 use PhpPact\Consumer\Model\ProviderResponse;
 use PhpPact\Standalone\MockService\MockServerEnvConfig;
 use PHPUnit\Framework\TestCase;
-use ProcessFlow\HttpInventoryServiceClient;
+use ProcessFlow\HttpResourceAvailabilityServiceClient;
 
 class HttpResourceAvailabilityServiceClientTest extends TestCase
 {
