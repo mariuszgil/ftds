@@ -1,0 +1,17 @@
+{
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "pact-foundation/pact-php": "^5.0",
+        "phpunit/phpunit": "^9.1",
+        "munusphp/munus": "^0.2.1",
+        "league/period": "^4.10",
+        "webmozart/assert": "^1.8",
+        "myclabs/php-enum": "^1.7",
+        "ramsey/uuid": "^4.0"
+    }
+}
